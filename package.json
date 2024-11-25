@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:donnelworks/boilerplate.git",
+  "author": "Donnelworks <donnel.works@gmail.com>",
+  "license": "MIT"
+}

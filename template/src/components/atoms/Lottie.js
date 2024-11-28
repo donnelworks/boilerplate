@@ -1,0 +1,1 @@
+export const Success = require('@assets/lotties/success.json');
